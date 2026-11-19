@@ -1,0 +1,7 @@
+﻿id_curso,titulo,instructor,duracion_horas,precio,estudiantes_inscritos,calificacion_promedio,nivel,fecha_inicio,plataforma
+201,Intro a Python,Carlos,40,1500,150,4.8,Principiante,2024-02-01,Udemy
+202,Marketing Digital,Ana,30,1200,200,4.5,Intermedio,2024-02-15,Coursera
+203,Diseño UX/UI,Luis,50,2000,80,4.9,Intermedio,2024-03-01,Domestika
+204,Finanzas Personales,Maria,20,800,300,4.2,Principiante,2024-02-05,Udemy
+205,Ingles Intermedio,Pedro,60,2500,120,4.7,Intermedio,2024-03-15,Coursera
+206,Excel Avanzado,Sofia,35,1000,180,4.6,Avanzado,2024-02-20,LinkedIn
